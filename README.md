@@ -1,2 +1,1 @@
-# usetallie.com-
-Subdomain takeover
+
